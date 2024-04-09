@@ -1,6 +1,4 @@
 package music;
-
-public class MusicStyles {
-    public void playMusic(){
-    };
+public abstract class MusicStyles {
+    public abstract void playMusic();
 }
